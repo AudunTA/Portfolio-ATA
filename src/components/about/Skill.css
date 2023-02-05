@@ -1,0 +1,42 @@
+.container-content {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1032px;
+  margin: auto;
+}
+.container-skill {
+  margin-top: 20px;
+  padding: 15px;
+  color: white;
+  background-color: #161b22;
+  margin-right: 20px;
+  border-radius: 6px;
+  border: solid #30363d 1px;
+}
+ul {
+  display: flex;
+}
+.container-skill li {
+  margin-left: 25px;
+}
+
+.container-education {
+  margin-top: 20px;
+  padding: 15px;
+  width: 100%;
+  color: white;
+  background-color: #161b22;
+  align-items: center;
+  border-radius: 6px;
+  border: solid #30363d 1px;
+}
+.education-item {
+  display: flex;
+}
+
+@media screen and (max-width: 800px) {
+  .container-content {
+    flex-direction: column;
+    margin: 15px;
+  }
+}

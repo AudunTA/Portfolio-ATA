@@ -1,0 +1,36 @@
+:root {
+  --light-gray: #161b22;
+  --black: #010409;
+  --gray: #21262d;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--light-gray);
+}
+
+.logo p {
+  color: white;
+  margin-left: 15px;
+}
+
+button {
+  margin-right: 15px;
+}
+.btn-active {
+  background-color: var(--black);
+  color: white;
+  border-color: #58a6ff;
+  border-radius: 6px;
+  border: solid #58a6ff 1px;
+  padding: 5px 30px;
+}
+.btn-notActive {
+  color: white;
+  background-color: var(--gray);
+  padding: 5px 30px;
+  border-radius: 6px;
+  border: solid #30363d 1px;
+}

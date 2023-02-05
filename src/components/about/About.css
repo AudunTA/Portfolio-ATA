@@ -1,0 +1,45 @@
+.container-about {
+  max-width: 1000px;
+  border-radius: 6px;
+  border: solid #30363d 1px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 15px;
+  color: white;
+  background-color: #161b22;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.img-selfie {
+  height: 350px;
+  width: 350px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: solid #30363d 1px;
+}
+.about-left {
+  max-width: 470px;
+  margin-right: 15px;
+}
+
+.icon-contact {
+  margin-right: 10px;
+  font-size: 30px;
+  padding: 10px;
+  border-radius: 6px;
+  border: solid #30363d 1px;
+  background-color: #21262d;
+}
+
+@media screen and (max-width: 800px) {
+  .container-about {
+    margin: 15px;
+    flex-direction: column-reverse;
+  }
+  .img-selfie {
+    margin: 10px;
+    width: 100%;
+  }
+}

@@ -1,0 +1,35 @@
+.container-card {
+  max-width: 1000px;
+  border-radius: 6px;
+  border: solid #30363d 1px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 15px;
+  color: white;
+  background-color: #161b22;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card-left {
+  margin-right: 20px;
+}
+.img-project {
+  width: 500px;
+  border-radius: 6px;
+  border: solid #30363d 1px;
+}
+.btn-projects {
+  margin-right: 10px;
+  font-size: 15px;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 6px;
+  border: solid #30363d 1px;
+  background-color: #21262d;
+}
+
+.icon-project {
+  margin-right: 10px;
+}
