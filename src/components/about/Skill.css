@@ -5,13 +5,16 @@
   margin: auto;
 }
 .container-skill {
-  margin-top: 20px;
+  margin-top: 30px;
   padding: 15px;
   color: white;
   background-color: #161b22;
   margin-right: 20px;
   border-radius: 6px;
   border: solid #30363d 1px;
+}
+.container-skill p {
+  color: #58a6ff;
 }
 ul {
   display: flex;
@@ -21,9 +24,9 @@ ul {
 }
 
 .container-education {
-  margin-top: 20px;
+  margin-top: 30px;
   padding: 15px;
-  width: 100%;
+  flex: 1;
   color: white;
   background-color: #161b22;
   align-items: center;
@@ -33,7 +36,13 @@ ul {
 .education-item {
   display: flex;
 }
-
+.gray-text {
+  color: #8b949e;
+}
+.education-text {
+  margin-left: 10px;
+  max-width: 300px;
+}
 @media screen and (max-width: 800px) {
   .container-content {
     flex-direction: column;

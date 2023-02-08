@@ -4,3 +4,17 @@ body {
 h2 {
   color: white;
 }
+
+.latest {
+  width: 1030px;
+  margin: 30px auto;
+}
+.empty-margin-div {
+  padding: 50px;
+}
+
+@media screen and (max-width: 800px) {
+  .latest {
+    margin: 15px;
+  }
+}
