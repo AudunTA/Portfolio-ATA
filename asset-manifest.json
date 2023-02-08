@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio-ATA/static/css/main.ff7fa318.css",
+    "main.js": "/Portfolio-ATA/static/js/main.aa547d98.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio-ATA/static/js/787.1ed0c42c.chunk.js",
+    "static/media/selfie.png": "/Portfolio-ATA/static/media/selfie.9d672cd5a840bf0e0141.png",
+    "static/media/AH-new.png": "/Portfolio-ATA/static/media/AH-new.92126b82c4d05a8bbedb.png",
+    "static/media/auctionHouse.png": "/Portfolio-ATA/static/media/auctionHouse.54186e3d19eb2a171ba4.png",
+    "static/media/adventureTrails.png": "/Portfolio-ATA/static/media/adventureTrails.cffeb25d7208899db1d4.png",
+    "static/media/plantSpire.png": "/Portfolio-ATA/static/media/plantSpire.ffe4e44a40db935709c5.png",
+    "static/media/frontface.png": "/Portfolio-ATA/static/media/frontface.634f8a1aebf7c25dbdfb.png",
+    "index.html": "/Portfolio-ATA/index.html",
+    "main.ff7fa318.css.map": "/Portfolio-ATA/static/css/main.ff7fa318.css.map",
+    "main.aa547d98.js.map": "/Portfolio-ATA/static/js/main.aa547d98.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio-ATA/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff7fa318.css",
+    "static/js/main.aa547d98.js"
+  ]
+}
