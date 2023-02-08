@@ -11,7 +11,9 @@
   justify-content: space-between;
   align-items: center;
 }
-
+.about-left a {
+  color: white;
+}
 .img-selfie {
   height: 350px;
   width: 350px;

@@ -17,8 +17,12 @@ export default function About() {
           currently learning React. Feel free to reach out to me if you got any
           questions!
         </p>
-        <FontAwesomeIcon className="icon-contact" icon={faLinkedin} />
-        <FontAwesomeIcon className="icon-contact" icon={faGithub} />
+        <a href="https://www.linkedin.com/in/audun-thompson-anderssen-79b3b3222/">
+          <FontAwesomeIcon className="icon-contact" icon={faLinkedin} />
+        </a>
+        <a href="https://github.com/AudunTA">
+          <FontAwesomeIcon className="icon-contact" icon={faGithub} />
+        </a>
       </div>
       <div className="about-right">
         <img

@@ -9,7 +9,7 @@
   padding: 15px;
   color: white;
   background-color: #161b22;
-  margin-right: 20px;
+
   border-radius: 6px;
   border: solid #30363d 1px;
 }
@@ -47,5 +47,10 @@ ul {
   .container-content {
     flex-direction: column;
     margin: 15px;
+  }
+}
+@media screen and (min-width: 800px) {
+  .container-skill {
+    margin-right: 20px;
   }
 }
